@@ -22,7 +22,7 @@ Há dois conceitos simples por trás do Anki: 'teste de recordação ativa' e
 Teste de Recordação Ativa
 ---------------------
 
-'Teste de recordação ativa' significa ser questionado e tentar relembrar a resposta. Isso em contraste com o 'estudo passivo', onde nós lemos, assistimos ou escutamos algo sem um intervalo para refletir se nós sabemos a resposta. Pesquisas tem demonstrado que o teste de recordação ativa é de longe mais efetivo em construir memórias robustas do que o estudo passivo. Há duas razões para isso:
+'Teste de recordação ativa' significa ser questionado e tentar relembrar a resposta. Isso em contraste com o 'estudo passivo', onde nós lemos, assistimos ou escutamos algo sem um intervalo para refletir se nós sabemos a resposta. Pesquisas têm demonstrado que o teste de recordação ativa é de longe mais efetivo em construir memórias robustas do que o estudo passivo. Há duas razões para isso:
 
 -   O ato de relembrar algo 'fortalece' a memória, aumentando as chances de que estejamos aptos a recordar aquilo novamente.
     
